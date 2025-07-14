@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="138e4a32-7322-4f53-b128-72b09deeb4ab" name="Changes" comment="" />
+    <list default="true" id="138e4a32-7322-4f53-b128-72b09deeb4ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SEMANA 7/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA 7/ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,29 +29,32 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2zC4mDgSMWjw5Y8RncRsGOuwlyM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ejercicio1.executor": "Run",
-    "Python.ejercicio2.executor": "Run",
-    "Python.ejercicio3.executor": "Run",
-    "Python.ejercicio4.executor": "Run",
-    "Python.ejercicio8.executor": "Run",
-    "Python.ejercicio9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +73,7 @@
       <workItem from="1749430741799" duration="1290000" />
       <workItem from="1751222037584" duration="7041000" />
       <workItem from="1751855794627" duration="361000" />
+      <workItem from="1752456547512" duration="1937000" />
     </task>
     <servers />
   </component>
@@ -73,11 +81,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio2.coverage" NAME="ejercicio2 Coverage Results" MODIFIED="1751224932891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
+    <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio2.coverage" NAME="ejercicio2 Coverage Results" MODIFIED="1752458073017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7" />
     <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$semana2.coverage" NAME="semana2 Coverage Results" MODIFIED="1749432295983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 2" />
     <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio9.coverage" NAME="ejercicio9 Coverage Results" MODIFIED="1751856090666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6" />
     <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio3.coverage" NAME="ejercicio3 Coverage Results" MODIFIED="1751226091143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
-    <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio1.coverage" NAME="ejercicio1 Coverage Results" MODIFIED="1751224064561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
+    <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio1.coverage" NAME="ejercicio1 Coverage Results" MODIFIED="1752457626652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 7" />
     <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio4.coverage" NAME="ejercicio4 Coverage Results" MODIFIED="1751225503061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 5" />
     <SUITE FILE_PATH="coverage/2525_EstructuraDeDatos_BarrionuevoRobin$ejercicio8.coverage" NAME="ejercicio8 Coverage Results" MODIFIED="1751855983713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 6" />
   </component>
