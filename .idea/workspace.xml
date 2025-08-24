@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="138e4a32-7322-4f53-b128-72b09deeb4ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEMANA 7/ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEMANA 7/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEMANA 10/semana10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2525-EstructuraDeDatos-BarrionuevoRobin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2525-EstructuraDeDatos-BarrionuevoRobin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +58,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
   </component>
@@ -74,6 +74,10 @@
       <workItem from="1751222037584" duration="7041000" />
       <workItem from="1751855794627" duration="361000" />
       <workItem from="1752456547512" duration="1937000" />
+      <workItem from="1753025598112" duration="885000" />
+      <workItem from="1753031519205" duration="5000" />
+      <workItem from="1756050651602" duration="302000" />
+      <workItem from="1756050974106" duration="185000" />
     </task>
     <servers />
   </component>
