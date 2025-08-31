@@ -1,0 +1,14 @@
+{
+  "eng_esp": {
+    "apple": "manzana",
+    "i": "yo",
+    "am": "soy",
+    "tigger": "tigre"
+  },
+  "esp_eng": {
+    "manzana": "apple",
+    "yo": "i",
+    "soy": "am",
+    "tigre": "tigger"
+  }
+}
